@@ -30,10 +30,32 @@ class _PracticeScreenState extends State<PracticeScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           FlipCard(
-            front: Text(practiceWords[current].word.original),
-            back: Text(practiceWords[current].word.translation),
+            front: Card(
+                child: SizedBox(
+                    width: 150,
+                    height: 175,
+                    child: Center(
+                        child: Text(
+                      practiceWords[current].word.original,
+                      style: TextStyle(fontSize: 24),
+                    )))),
+            back: Card(
+                child: SizedBox(
+                    width: 150,
+                    height: 175,
+                    child: Center(
+                        child: Text(
+                      practiceWords[current].word.translation,
+                      style: TextStyle(fontSize: 24),
+                    )))),
           ),
-          Text(practiceWords[current].word.sentence),
+          Padding(
+            padding: const EdgeInsets.all(25.0),
+            child: Text(
+              practiceWords[current].word.sentence,
+              style: TextStyle(fontSize: 18),
+            ),
+          ),
           Wrap(
             alignment: WrapAlignment.center,
             crossAxisAlignment: WrapCrossAlignment.center,
