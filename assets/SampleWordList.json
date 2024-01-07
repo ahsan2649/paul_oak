@@ -1,0 +1,127 @@
+[
+    {
+        "Sentence": "Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.",
+        "Translation": "intention",
+        "Word": "die Absicht"
+    },
+    {
+        "Sentence": "Lasst uns über diesen Punkt abstimmen",
+        "Translation": "vote",
+        "Word": "abstimmen"
+    },
+    {
+        "Sentence": "Herr Huber ist bis zum 25. April abwesend",
+        "Translation": "absent",
+        "Word": "abwesend"
+    },
+    {
+        "Sentence": "Das Geld muss bis März ausreichen.",
+        "Translation": "to be sufficient",
+        "Word": "ausreichen"
+    },
+    {
+        "Sentence": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
+        "Translation": "to message",
+        "Word": "ausrichten"
+    },
+    {
+        "Sentence": "Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.",
+        "Translation": "to brake",
+        "Word": "bremsen"
+    },
+    {
+        "Sentence": "Mein Sohn ist sehr dünn. Er isst zu wenig.",
+        "Translation": "thin",
+        "Word": "dünn"
+    },
+    {
+        "Sentence": "Im Urlaub habe ich mich sehr gut erholt.",
+        "Translation": "to recover",
+        "Word": "sich erholen"
+    },
+    {
+        "Sentence": "Die Stadt fördert viele Sportprojekte.",
+        "Translation": "to support financially",
+        "Word": "fördern"
+    },
+    {
+        "Sentence": "Wir haben eine sehr gemütliche Wohnung.",
+        "Translation": "cozy",
+        "Word": "gemütlich"
+    },
+    {
+        "Sentence": "An der Grenze musst du deinen Ausweis zeigen.",
+        "Translation": "border",
+        "Word": "grenze"
+    },
+    {
+        "Sentence": "Für die Reise habe ich 500 Euro von meinem Konto abgehoben.",
+        "Translation": "to withdraw",
+        "Word": "abheben"
+    },
+    {
+        "Sentence": "Bitte geben Sie Ihre genaue Adresse\nan.",
+        "Translation": "to specify",
+        "Word": "angeben"
+    },
+    {
+        "Sentence": "Du darfst im Brief die Anrede nicht vergessen.",
+        "Translation": "salutation",
+        "Word": "die Anrede"
+    },
+    {
+        "Sentence": "Bei dem Treffen waren alle Mitglieder anwesend.",
+        "Translation": "present",
+        "Word": "anwesend"
+    },
+    {
+        "Sentence": "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.",
+        "Translation": "appear",
+        "Word": "auftreten"
+    },
+    {
+        "Sentence": "Die Firma hat eine neue Nummer. Bitte, rufen Sie die Auskunft an.",
+        "Translation": "information",
+        "Word": "die Auskunft"
+    },
+    {
+        "Sentence": "Wer hat den Unfall beobachtet?",
+        "Translation": "to observe",
+        "Word": "beobachten"
+    },
+    {
+        "Sentence": "Schreiben Sie bitte deutlich!",
+        "Translation": "clearly",
+        "Word": "deutlich"
+    },
+    {
+        "Sentence": "In diesem Bericht sind einige Fehler.",
+        "Translation": "some",
+        "Word": "einig"
+    },
+    {
+        "Sentence": "Fast jedes Kind hat ein eigenes Zimmer.",
+        "Translation": "own",
+        "Word": "eigen"
+    },
+    {
+        "Sentence": "Du siehst toll aus! Wer ist dein Friseur?",
+        "Translation": "hairdresser",
+        "Word": "der Friseur"
+    },
+    {
+        "Sentence": "Greifen Sie doch zu!",
+        "Translation": "to grab",
+        "Word": "greifen"
+    },
+    {
+        "Sentence": "Guck doch mal! Es schneit.",
+        "Translation": "to look",
+        "Word": "gucken"
+    },
+    {
+        "Sentence": null,
+        "Translation": "to point out",
+        "Word": "hinweisen"
+    }
+]
